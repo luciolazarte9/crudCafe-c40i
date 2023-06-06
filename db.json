@@ -1,0 +1,8 @@
+{
+    "producto": [
+      { "id": 1, "nombreProducto": "cafe", "precio": 300, "descripcion": "alguna descripcion", "categorias":"bebida caliente", "imagen":"https://media.istockphoto.com/id/1177900338/es/foto/taza-de-espresso-con-granos-de-caf%C3%A9.jpg?s=612x612&w=0&k=20&c=kK3bovtRdJjfHGAt7LX3FxgeRRRE762kOVBcAHpgdp0=" }
+    ],
+    "usuarios": [
+      { "id": 1, "nombreUsuario": "admin", "email": "admin@admin.com", "password": "admin" }
+    ]
+  }
